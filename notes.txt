@@ -1,0 +1,19 @@
+After you complete the code-along...
+
+CHECK YOUR UNDERSTANDING:
+1. Change the heading of the website from "Average Calculator" to "Not So Average Calculator"
+
+2. Change the name of the button from "CALC AVG" to "CALCULATE"
+
+3. Add these paragraphs to your HTML. Put a <span> around the ------ and give each its own unique ID.
+  a. The sum of the three numbers is: ------
+  b. The product of the three numbers is: ------
+  c. The remainder of number 1 when divided by number 2 is: ------
+  d. Number 1 to the power of number 2 is: ------
+  e. Number 1, rounded to 2 decimal places is: ------- (reference: https://www.w3schools.com/jsref/jsref_tofixed.asp)
+  f. The tangent of the third number is: ------- (reference: https://www.w3schools.com/jsref/jsref_tan.asp)
+  g. A random number between number 1 and number 2 is: --------  (reference: https://www.w3schools.com/jsref/jsref_random.asp)
+
+4. In JavaScript, calculate each of the above items and store them in their own separate variables. This should be done within the same function from the code-along section.
+
+5. Output each item to their respective span tag.
